@@ -1,2 +1,0 @@
-# Tinyllama_RISCV
--
